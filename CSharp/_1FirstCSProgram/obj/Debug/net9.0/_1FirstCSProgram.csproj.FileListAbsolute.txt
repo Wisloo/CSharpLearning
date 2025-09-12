@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\CSharpLearning\_1FirstCSProgram\bin\Debug\net9.0\_1FirstCSProgram.exe
+C:\Users\Louis\RiderProjects\CSharpLearning\_1FirstCSProgram\bin\Debug\net9.0\_1FirstCSProgram.deps.json
+C:\Users\Louis\RiderProjects\CSharpLearning\_1FirstCSProgram\bin\Debug\net9.0\_1FirstCSProgram.runtimeconfig.json
+C:\Users\Louis\RiderProjects\CSharpLearning\_1FirstCSProgram\bin\Debug\net9.0\_1FirstCSProgram.dll
+C:\Users\Louis\RiderProjects\CSharpLearning\_1FirstCSProgram\bin\Debug\net9.0\_1FirstCSProgram.pdb
+C:\Users\Louis\RiderProjects\CSharpLearning\_1FirstCSProgram\obj\Debug\net9.0\_1FirstCSProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\CSharpLearning\_1FirstCSProgram\obj\Debug\net9.0\_1FirstCSProgram.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\CSharpLearning\_1FirstCSProgram\obj\Debug\net9.0\_1FirstCSProgram.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\CSharpLearning\_1FirstCSProgram\obj\Debug\net9.0\_1FirstCSProgram.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\CSharpLearning\_1FirstCSProgram\obj\Debug\net9.0\_1FirstCSProgram.dll
+C:\Users\Louis\RiderProjects\CSharpLearning\_1FirstCSProgram\obj\Debug\net9.0\refint\_1FirstCSProgram.dll
+C:\Users\Louis\RiderProjects\CSharpLearning\_1FirstCSProgram\obj\Debug\net9.0\_1FirstCSProgram.pdb
+C:\Users\Louis\RiderProjects\CSharpLearning\_1FirstCSProgram\obj\Debug\net9.0\_1FirstCSProgram.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\CSharpLearning\_1FirstCSProgram\obj\Debug\net9.0\ref\_1FirstCSProgram.dll
