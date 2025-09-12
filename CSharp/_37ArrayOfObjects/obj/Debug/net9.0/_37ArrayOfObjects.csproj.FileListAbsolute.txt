@@ -1,0 +1,14 @@
+C:\Users\Louis\Downloads\Programs\CSharpLearning\_37ArrayOfObjects\bin\Debug\net9.0\_37ArrayOfObjects.exe
+C:\Users\Louis\Downloads\Programs\CSharpLearning\_37ArrayOfObjects\bin\Debug\net9.0\_37ArrayOfObjects.deps.json
+C:\Users\Louis\Downloads\Programs\CSharpLearning\_37ArrayOfObjects\bin\Debug\net9.0\_37ArrayOfObjects.runtimeconfig.json
+C:\Users\Louis\Downloads\Programs\CSharpLearning\_37ArrayOfObjects\bin\Debug\net9.0\_37ArrayOfObjects.dll
+C:\Users\Louis\Downloads\Programs\CSharpLearning\_37ArrayOfObjects\bin\Debug\net9.0\_37ArrayOfObjects.pdb
+C:\Users\Louis\Downloads\Programs\CSharpLearning\_37ArrayOfObjects\obj\Debug\net9.0\_37ArrayOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\Downloads\Programs\CSharpLearning\_37ArrayOfObjects\obj\Debug\net9.0\_37ArrayOfObjects.AssemblyInfoInputs.cache
+C:\Users\Louis\Downloads\Programs\CSharpLearning\_37ArrayOfObjects\obj\Debug\net9.0\_37ArrayOfObjects.AssemblyInfo.cs
+C:\Users\Louis\Downloads\Programs\CSharpLearning\_37ArrayOfObjects\obj\Debug\net9.0\_37ArrayOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\Louis\Downloads\Programs\CSharpLearning\_37ArrayOfObjects\obj\Debug\net9.0\_37ArrayOfObjects.dll
+C:\Users\Louis\Downloads\Programs\CSharpLearning\_37ArrayOfObjects\obj\Debug\net9.0\refint\_37ArrayOfObjects.dll
+C:\Users\Louis\Downloads\Programs\CSharpLearning\_37ArrayOfObjects\obj\Debug\net9.0\_37ArrayOfObjects.pdb
+C:\Users\Louis\Downloads\Programs\CSharpLearning\_37ArrayOfObjects\obj\Debug\net9.0\_37ArrayOfObjects.genruntimeconfig.cache
+C:\Users\Louis\Downloads\Programs\CSharpLearning\_37ArrayOfObjects\obj\Debug\net9.0\ref\_37ArrayOfObjects.dll
