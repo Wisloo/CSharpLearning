@@ -1,0 +1,66 @@
+﻿START PROGRAM
+
+CREATE an empty list called cart
+
+FUNCTION AddItem(cart, price):
+    add price to cart
+
+FUNCTION RemoveItem(cart, index):
+    remove the item AT that index from cart
+
+FUNCTION CalculateTotal(cart):
+    sum = 0
+    for each item in cart:
+        sum = sum + item
+    return sum
+
+FUNCTION ApplyDiscount(total, discountPercent):
+    discountAmount = total * (discountPercent / 100)
+    return total - discountAmount
+
+FUNCTION ViewCart(cart):
+    if cart is empty:
+        print "Cart is empty."
+    else:
+        for i from 0 to cart.Count-1:
+            print i + ": " + cart[i]   // show index + price
+
+MAIN PROGRAM:
+    repeat until user chooses exit:
+        show menu:
+            1=Add item
+            2=Remove item
+            3=View cart
+            4=View total
+            5=Apply discount
+            6=Exit
+        read choice
+
+        if choice = 1:
+            ask user: "Enter price of item"
+            read price
+            call AddItem(cart, price)
+
+        if choice = 2:
+            call ViewCart(cart)   // show items + indexes first
+            ask user: "Enter index of item to remove"
+            read index
+            call RemoveItem(cart, index)
+
+        if choice = 3:
+            call ViewCart(cart)
+
+        if choice = 4:
+            total = call CalculateTotal(cart)
+            print "Total: " + total
+
+        if choice = 5:
+            ask user: "Enter discount percent"
+            read discount
+            total = call CalculateTotal(cart)
+            finalTotal = call ApplyDiscount(total, discount)
+            print "Total after discount: " + finalTotal
+
+    END REPEAT
+
+END PROGRAM

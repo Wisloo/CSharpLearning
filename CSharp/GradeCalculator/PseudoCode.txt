@@ -1,0 +1,39 @@
+﻿START PROGRAM
+
+FUNCTION CalculateAverage(scores):
+    sum = 0
+    FOR each score in scores:
+        sum = sum + score
+    average = sum / number of scores
+    RETURN average
+
+FUNCTION GetLetterGrade(average):
+    IF average >= 90:
+        RETURN "A"
+    ELSE IF average >= 80:
+        RETURN "B"
+    ELSE IF average >= 70:
+        RETURN "C"
+    ELSE IF average >= 60:
+        RETURN "D"
+    ELSE:
+        RETURN "F"
+
+MAIN PROGRAM:
+    CREATE an empty list called scores
+
+    ASK user: "How many subjects do you have?"
+    READ subjectCount
+
+    FOR i from 1 to subjectCount:
+        ASK user: "Enter score for subject i:"
+        READ score
+        ADD score to scores list
+
+    average = CALL CalculateAverage(scores)
+    grade = CALL GetLetterGrade(average)
+
+    PRINT "Your average is: " + average
+    PRINT "Your grade is: " + grade
+
+END PROGRAM

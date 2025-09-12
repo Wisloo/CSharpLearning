@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\CSharpLearning\ShoppingCartProgram\bin\Debug\net9.0\ShoppingCartProgram.exe
+C:\Users\Louis\RiderProjects\CSharpLearning\ShoppingCartProgram\bin\Debug\net9.0\ShoppingCartProgram.deps.json
+C:\Users\Louis\RiderProjects\CSharpLearning\ShoppingCartProgram\bin\Debug\net9.0\ShoppingCartProgram.runtimeconfig.json
+C:\Users\Louis\RiderProjects\CSharpLearning\ShoppingCartProgram\bin\Debug\net9.0\ShoppingCartProgram.dll
+C:\Users\Louis\RiderProjects\CSharpLearning\ShoppingCartProgram\bin\Debug\net9.0\ShoppingCartProgram.pdb
+C:\Users\Louis\RiderProjects\CSharpLearning\ShoppingCartProgram\obj\Debug\net9.0\ShoppingCartProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\CSharpLearning\ShoppingCartProgram\obj\Debug\net9.0\ShoppingCartProgram.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\CSharpLearning\ShoppingCartProgram\obj\Debug\net9.0\ShoppingCartProgram.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\CSharpLearning\ShoppingCartProgram\obj\Debug\net9.0\ShoppingCartProgram.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\CSharpLearning\ShoppingCartProgram\obj\Debug\net9.0\ShoppingCartProgram.dll
+C:\Users\Louis\RiderProjects\CSharpLearning\ShoppingCartProgram\obj\Debug\net9.0\refint\ShoppingCartProgram.dll
+C:\Users\Louis\RiderProjects\CSharpLearning\ShoppingCartProgram\obj\Debug\net9.0\ShoppingCartProgram.pdb
+C:\Users\Louis\RiderProjects\CSharpLearning\ShoppingCartProgram\obj\Debug\net9.0\ShoppingCartProgram.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\CSharpLearning\ShoppingCartProgram\obj\Debug\net9.0\ref\ShoppingCartProgram.dll
