@@ -1,0 +1,30 @@
+﻿CLASS Student
+    DECLARE name, age, grade, section
+
+    CONSTRUCTOR Student(name, age)
+        SET this.name = name
+        SET this.age = age
+        SET grade = "Not Assigned"
+        SET section = "Not Assigned"
+
+    CONSTRUCTOR Student(name, age, grade, section)
+        SET this.name = name
+        SET this.age = age
+        SET this.grade = grade
+        SET this.section = section
+
+    METHOD DisplayInfo()
+        PRINT "Name: " + name
+        PRINT "Age: " + age
+        PRINT "Grade: " + grade
+        PRINT "Section: " + section
+END CLASS
+
+
+MAIN PROGRAM
+    CREATE student1 USING constructor with (name, age)
+    CREATE student2 USING constructor with (name, age, grade, section)
+
+    CALL student1.DisplayInfo()
+    CALL student2.DisplayInfo()
+END PROGRAM

@@ -1,0 +1,14 @@
+C:\Users\Louis\RiderProjects\CSharpLearning\StudentProfile\bin\Debug\net9.0\StudentProfile.exe
+C:\Users\Louis\RiderProjects\CSharpLearning\StudentProfile\bin\Debug\net9.0\StudentProfile.deps.json
+C:\Users\Louis\RiderProjects\CSharpLearning\StudentProfile\bin\Debug\net9.0\StudentProfile.runtimeconfig.json
+C:\Users\Louis\RiderProjects\CSharpLearning\StudentProfile\bin\Debug\net9.0\StudentProfile.dll
+C:\Users\Louis\RiderProjects\CSharpLearning\StudentProfile\bin\Debug\net9.0\StudentProfile.pdb
+C:\Users\Louis\RiderProjects\CSharpLearning\StudentProfile\obj\Debug\net9.0\StudentProfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\RiderProjects\CSharpLearning\StudentProfile\obj\Debug\net9.0\StudentProfile.AssemblyInfoInputs.cache
+C:\Users\Louis\RiderProjects\CSharpLearning\StudentProfile\obj\Debug\net9.0\StudentProfile.AssemblyInfo.cs
+C:\Users\Louis\RiderProjects\CSharpLearning\StudentProfile\obj\Debug\net9.0\StudentProfile.csproj.CoreCompileInputs.cache
+C:\Users\Louis\RiderProjects\CSharpLearning\StudentProfile\obj\Debug\net9.0\StudentProfile.dll
+C:\Users\Louis\RiderProjects\CSharpLearning\StudentProfile\obj\Debug\net9.0\refint\StudentProfile.dll
+C:\Users\Louis\RiderProjects\CSharpLearning\StudentProfile\obj\Debug\net9.0\StudentProfile.pdb
+C:\Users\Louis\RiderProjects\CSharpLearning\StudentProfile\obj\Debug\net9.0\StudentProfile.genruntimeconfig.cache
+C:\Users\Louis\RiderProjects\CSharpLearning\StudentProfile\obj\Debug\net9.0\ref\StudentProfile.dll
