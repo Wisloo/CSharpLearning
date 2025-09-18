@@ -1,0 +1,17 @@
+C:\Users\Louis\Downloads\Programs\WindowsFormsLearning\WindowsFormLearning\WindowsFormLearning\bin\Debug\net8.0-windows\WindowsFormLearning.exe
+C:\Users\Louis\Downloads\Programs\WindowsFormsLearning\WindowsFormLearning\WindowsFormLearning\bin\Debug\net8.0-windows\WindowsFormLearning.deps.json
+C:\Users\Louis\Downloads\Programs\WindowsFormsLearning\WindowsFormLearning\WindowsFormLearning\bin\Debug\net8.0-windows\WindowsFormLearning.runtimeconfig.json
+C:\Users\Louis\Downloads\Programs\WindowsFormsLearning\WindowsFormLearning\WindowsFormLearning\bin\Debug\net8.0-windows\WindowsFormLearning.dll
+C:\Users\Louis\Downloads\Programs\WindowsFormsLearning\WindowsFormLearning\WindowsFormLearning\bin\Debug\net8.0-windows\WindowsFormLearning.pdb
+C:\Users\Louis\Downloads\Programs\WindowsFormsLearning\WindowsFormLearning\WindowsFormLearning\obj\Debug\net8.0-windows\WindowsFormLearning.Form1.resources
+C:\Users\Louis\Downloads\Programs\WindowsFormsLearning\WindowsFormLearning\WindowsFormLearning\obj\Debug\net8.0-windows\WindowsFormLearning.csproj.GenerateResource.cache
+C:\Users\Louis\Downloads\Programs\WindowsFormsLearning\WindowsFormLearning\WindowsFormLearning\obj\Debug\net8.0-windows\WindowsFormLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Louis\Downloads\Programs\WindowsFormsLearning\WindowsFormLearning\WindowsFormLearning\obj\Debug\net8.0-windows\WindowsFormLearning.AssemblyInfoInputs.cache
+C:\Users\Louis\Downloads\Programs\WindowsFormsLearning\WindowsFormLearning\WindowsFormLearning\obj\Debug\net8.0-windows\WindowsFormLearning.AssemblyInfo.cs
+C:\Users\Louis\Downloads\Programs\WindowsFormsLearning\WindowsFormLearning\WindowsFormLearning\obj\Debug\net8.0-windows\WindowsFormLearning.csproj.CoreCompileInputs.cache
+C:\Users\Louis\Downloads\Programs\WindowsFormsLearning\WindowsFormLearning\WindowsFormLearning\obj\Debug\net8.0-windows\WindowsFormLearning.dll
+C:\Users\Louis\Downloads\Programs\WindowsFormsLearning\WindowsFormLearning\WindowsFormLearning\obj\Debug\net8.0-windows\refint\WindowsFormLearning.dll
+C:\Users\Louis\Downloads\Programs\WindowsFormsLearning\WindowsFormLearning\WindowsFormLearning\obj\Debug\net8.0-windows\WindowsFormLearning.pdb
+C:\Users\Louis\Downloads\Programs\WindowsFormsLearning\WindowsFormLearning\WindowsFormLearning\obj\Debug\net8.0-windows\WindowsFormLearning.genruntimeconfig.cache
+C:\Users\Louis\Downloads\Programs\WindowsFormsLearning\WindowsFormLearning\WindowsFormLearning\obj\Debug\net8.0-windows\ref\WindowsFormLearning.dll
+C:\Users\Louis\Downloads\Programs\WindowsFormsLearning\WindowsFormLearning\WindowsFormLearning\obj\Debug\net8.0-windows\WindowsFormLearning.Properties.Resources.resources
